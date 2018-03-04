@@ -1,0 +1,14 @@
+{
+  "name": "html-anywhere-webpack-plugin",
+  "version": "1.0.0",
+  "description": "通过设置标记，可以将生成的js&css文件，插入到html文件的任何一个地方",
+  "main": "index.js",
+  "peerDependencies": {
+    "html-webpack-plugin": "^2.30.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asiareal",
+  "license": "ISC"
+}
