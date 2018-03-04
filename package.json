@@ -10,5 +10,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "asiareal",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiareal/html-anywhere-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-plugin",
+    "html-webpack-plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/asiareal/html-anywhere-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/asiareal/html-anywhere-webpack-plugin#readme"
 }
